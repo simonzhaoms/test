@@ -9,7 +9,7 @@ meta:
   author     : Simon Zhao
   url        : https://github.com/simonzhaoms/test
 dependencies:
-  conda: numpy, tensorflow, keras, opencv, pydot, graphviz, matplotlib
+  conda: numpy
   files:
     - https://github.com/foamliu/Simple-Colorization/releases/download/v1.0/model.06-2.5489.hdf5: models/
     - https://github.com/simonzhaoms/test/raw/master/images.zip: images
