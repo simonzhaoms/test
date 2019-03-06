@@ -16,5 +16,7 @@ dependencies:
     - scripts/demo.py
     - README.md
     - 'Microsoft/Recommenders:reco_utils'
+    - 'github:Microsoft/Recommenders': recomender
+    - 'Microsoft/Recommenders:reco_utils': subfoder/
 commands:
   demo: Demo.
